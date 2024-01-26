@@ -1,6 +1,6 @@
 ## Practicum-4-Repo
 Repo for Practicum 4 - Java Basics - Keywords in Java
-# 4 - Keywords in Java
+# Keywords in Java
 
 **BACKGROUND**<br>
 A `keyword` (or `reserved word`) in a programming language is an
